@@ -1,2 +1,2 @@
 # temptest
-pnly test
+test  for git
